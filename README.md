@@ -104,12 +104,3 @@
 **Tech Stack:** `React` `Tailwind CSS` `Spring Boot` `PostgreSQL` `Clerk` `Apify`
 - Developed a platform focused on discovering and tracking learning resources.
 - Led the React frontend architecture, user interfaces, and robust REST API integrations.
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshhala&show_icons=true&theme=radical" alt="Vansh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshhala&theme=radical" alt="Vansh's GitHub Streak" />
-</div>
